@@ -19,6 +19,5 @@ Welcome to my academic portfolio for CEP146!
 ## Projects
 *This section will be updated as I complete assignments* 
 
-//Nice formatting! The checklist format makes it easy to trach progress. 
 
 
