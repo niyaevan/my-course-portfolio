@@ -23,7 +23,7 @@ Exercise 1: Basic Formatting
 ## Introduction
 Name: **Soniya**
 
-_I like Arts and Crafts
+_I like Arts and Crafts_
 
 **Interests:**  
 - Going to the movies  
