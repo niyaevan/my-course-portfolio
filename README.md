@@ -17,7 +17,17 @@ Welcome to my academic portfolio for CEP146!
 //Consider adding a section about your favourite coding projects.
 
 ## Projects
-*This section will be updated as I complete assignments* 
+### LAB4a
+Exercise 1: Basic Formatting
 
+## Introduction
+Name: **Soniya**
+
+_ I like Arts and Crafts
+
+**Interests:**  
+- Going to the movies  
+- Late night walks  
+- Anything related to beauty and fashion 
 
 
