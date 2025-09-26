@@ -17,7 +17,7 @@ Welcome to my academic portfolio for CEP146!
 //Consider adding a section about your favourite coding projects.
 
 ## Projects
-### LAB 4a
+## LAB 4a
 Exercise 1: Basic Formatting
 
 ## Introduction
