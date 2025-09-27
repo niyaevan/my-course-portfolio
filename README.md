@@ -32,7 +32,7 @@ _I like Arts and Crafts_
 
 
 Exercise 2: Recipe card
-# 🍯 Hot Honey Garlic Chicken Slider
+# Hot Honey Garlic Chicken Slider
 ## Ingredients
 - 2–3 chicken breasts  
 - 1 cup buttermilk *(or milk + lemon juice / yogurt + water)*  
