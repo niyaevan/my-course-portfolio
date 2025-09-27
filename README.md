@@ -118,7 +118,7 @@ Sanctions vary based on the severity of the offence, academic level, and circums
 
 ---
 
-## 📊 Appendix A: Academic Integrity Procedures Table
+## Appendix A: Academic Integrity Procedures Table
 
 | Step | Action | Duration | Responsibility |
 |------|--------|----------|----------------|
@@ -133,6 +133,6 @@ Sanctions vary based on the severity of the offence, academic level, and circums
 
 ---
 
-## 🔗 Related Links
+## Related Links
 - [Seneca Academic Integrity Policy](https://www.senecacollege.ca/about/policies/academic-integrity-policy.html)  
 - [Seneca Academic Appeals Policy](https://www.senecacollege.ca/about/policies/academic-appeal-policy.html)  
